@@ -1,0 +1,12 @@
+body {
+    background-color: red;
+}
+
+.text-section {
+    width: calc(100vw - 25px);
+    height: 30vh;
+}
+
+li {
+    font-size: 30px;
+}
